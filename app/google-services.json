@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "876146688029",
+    "firebase_url": "https://thingstodo-d10c6.firebaseio.com",
+    "project_id": "thingstodo-d10c6",
+    "storage_bucket": "thingstodo-d10c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876146688029:android:f94cd4344396848c",
+        "android_client_info": {
+          "package_name": "com.android.ciblearning.thingstodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876146688029-2fds122qdmflvfn220iavvmjukf54mm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.ciblearning.thingstodo",
+            "certificate_hash": "1a8e4b3fe7666a93b9993b20bb936c0be2dd9873"
+          }
+        },
+        {
+          "client_id": "876146688029-vgfnbqfd5j3ugro7fat5p5hpn0k5u9g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTZxkCQTPs8Y8LgT6cyVHvA2Iezk7yrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876146688029-vgfnbqfd5j3ugro7fat5p5hpn0k5u9g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
